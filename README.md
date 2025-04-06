@@ -2,4 +2,3 @@ this is a flashcard app created with python tkinter (Gui) it baisically uses pan
 it helps in learning words in new languages and new languages are being put in as its updated periodically.
 
 
-
